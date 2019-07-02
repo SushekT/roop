@@ -1,0 +1,25 @@
+Version 1.3.5
+i)   Intial version Release
+
+Version 1.3.6
+i)   Changes as per reviewer
+
+Version 1.3.7
+i)   Changes as per reviewer
+
+Version 1.3.8
+i)   Changes as per reviewer
+
+Version 1.3.9
+i)   Resolved front page setting issue.
+ii)  Query_posts replace with WP_Query and reset data after. 
+iii) Removed copyright from footer.
+iv)  Solved themes check issue.
+v)   For slider create option to select post or pages.
+
+Version 1.4.0
+i)   Changed appearance in latest posts of the theme.
+
+Version 1.4.1
+i)	 Author URI and Theme URI changed.	   
+ii)  Removed anchor link from footer. 

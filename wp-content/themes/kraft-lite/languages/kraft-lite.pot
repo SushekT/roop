@@ -1,0 +1,594 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kraft Lite\n"
+"POT-Creation-Date: 2015-09-15 16:23+0530\n"
+"PO-Revision-Date: 2015-07-06 11:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: SKT Themes <support@sktthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us. Maybe try a search?"
+msgstr ""
+
+#: 404.php:19 footer.php:58
+msgid "Recent Posts"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: archive.php:50
+msgid "Images"
+msgstr ""
+
+#: archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:59
+msgid "Links"
+msgstr ""
+
+#: archive.php:62 sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18 content-single.php:33 content.php:31 image.php:59
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:70 inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: content.php:16
+msgid ", "
+msgstr ""
+
+#: content.php:24
+msgid "Read More "
+msgstr ""
+
+#: content.php:28
+msgid "Continue reading"
+msgstr ""
+
+#: footer.php:13
+msgid "About Kraft"
+msgstr ""
+
+#: footer.php:14 inc/customizer.php:465
+msgid ""
+"<p>Nam aliquet aliquam ipsum eget volutpat. Duis nec porta purus. Integer "
+"adipiscing augue sit amet libero vulputate, et fermentum nibh rutrum. In "
+"bibendum nisi sed consequat hendrerit. Aliquam.</p>\n"
+"<p>Quisque elementum, dolor nec tempus eleifend, nibh mauris aliquet ante, "
+"eu tempus sapien nisi non nunc. Nulla facilisi. Suspendisse lobortis laoreet "
+"risus, a posuere mauris facilisis at. In viverra euismod velit non cursus. </"
+"p>"
+msgstr ""
+
+#: footer.php:18 inc/customizer.php:498
+msgid "100 King St, Melbourne PIC 4000, Australia"
+msgstr ""
+
+#: footer.php:19 inc/customizer.php:510
+msgid "Phone: +123 456 7890"
+msgstr ""
+
+#: footer.php:20
+msgid "Email:"
+msgstr ""
+
+#: footer.php:49
+msgid "Useful Links"
+msgstr ""
+
+#: footer.php:52
+msgid ""
+"<li><a href=\"#\">Home</a></li><li><a href=\"#\">About Us</a></li><li><a "
+"href=\"#\">Portfolio</a></li><li><a href=\"#\">Contact Us</a></li>"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:66
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: header.php:24
+msgid "Follow us:"
+msgstr ""
+
+#: header.php:71
+msgid "Menu"
+msgstr ""
+
+#: header.php:132
+msgid "Read More"
+msgstr ""
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:38
+msgid "Previous"
+msgstr ""
+
+#: image.php:39
+msgid "Next"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Logo (PRO Version)"
+msgstr ""
+
+#: inc/customizer.php:49
+#, php-format
+msgid "Logo Settings available in<br /> %s."
+msgstr ""
+
+#: inc/customizer.php:49 inc/customizer.php:73 inc/customizer.php:162
+#: inc/customizer.php:393 inc/customizer.php:534 inc/customizer.php:557
+msgid "PRO Version"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:73
+#, php-format
+msgid "More color options in<br /> %s."
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Header Info"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "header phone number and time table"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid ""
+"<i class=\"fa fa-phone\"></i><span class=\"phno\"> +11 123 456 7890 </span>  "
+"Mon. - Fri. 10:00 - 21:00"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Add phone number"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Homepage First Section"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid ""
+"<p><i class=\"fa fa-pencil\"></i><br />\n"
+"<h2>Hey people! We are SKT and let us introduce our new Theme - \"Kraft\"</"
+"h2>\n"
+"<p> Nunc sed lorem pretium, volutpat tortor id, adipiscing sem. Sed bibendum "
+"quis augue nec porta. Ut molestie tortor pulvinar, faucibus justo vitae</p>"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "first section content"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Homepage Boxes"
+msgstr ""
+
+#: inc/customizer.php:116
+#, php-format
+msgid "More social icons can be found<br /> %s."
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid ""
+"<div class=\"one_third \"><a href=\"#\"><i class=\"fa fa-desktop\"></i></p>\n"
+"<h4>Cool Animated Columns <span>Animated Columns</span></h4>\n"
+"<p></a>Lorem ipsum dolor sit amet, consectetur adipiscinr sed gravida "
+"tortor, sed ullamcorper tellus. Cras id magna tempor, porta nunc quis.<a "
+"class=\"rdmore\" href=\"#\">Read More ></a></div>"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "First column content"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid ""
+"<div class=\"one_third \"><a href=\"#\"><i class=\"fa fa-gears\"></i></p>\n"
+"<h4>Rich Customization Abilities <span>Color Change</span></h4>\n"
+"<p></a> Lorem ipsum dolor sit amet, consectetur adipiscinr sed gravida "
+"tortor, sed ullamcorper tellus. Cras id magna tempor, porta nunc quis.<a "
+"class=\"rdmore\" href=\"#\">Read More ></a></div>"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Second column content"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid ""
+"<div class=\"one_third  last_column\"><a href=\"#\"><i class=\"fa fa-cloud-"
+"download\"></i></p>\n"
+"<h4>Gallery Plugin Compatibility <span>Nextgen Gallery</span></h4>\n"
+"<p></a> Lorem ipsum dolor sit amet, consectetur adipiscinr sed gravida "
+"tortor, sed ullamcorper tellus. Cras id magna tempor, porta nunc quis.<a "
+"class=\"rdmore\" href=\"#\">Read More ></a></div> "
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Third column content"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:162
+#, php-format
+msgid "Add slider images here. <br>More slider settings available in  %s."
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Slide Image 1 (1420x591)"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid ""
+"\"Kraft\" is <strong>Fully Responsive</strong> on <span>any</span> device "
+"and resolutions"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Slide title 1"
+msgstr ""
+
+#: inc/customizer.php:189 inc/customizer.php:231
+msgid ""
+"Nunc sed lorem pretium, volutpat tortor id, adipiscing sem. Sed bibendum "
+"quis augue nec porta. Ut molestie tortor pulvinar, faucibus justo vitae, "
+"interdum nunc. Vestibulum imperdiet nisl vel condimentum faucibus. Vivamus "
+"rutrum ipsum vel luctus. "
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Slider description  1"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Slide link 1"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Slide image 2"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid ""
+"\"Kraft\" includes <strong>Solid Animated Divs </strong> <span>Unlimited</"
+"span> possibilities"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Slide title 2"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Slide description 2"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Slide link 2"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Slide Image 3"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid ""
+"\"Kraft\" is <strong>WooCommerce Compatible</strong> Open <span>Shop</span> "
+"anytime"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Slide title 3"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid ""
+"Nunc sed lorem pretium, volutpat tortor id, adipiscing sem. Sed bibendum "
+"quis augue nec porta. Ut molestie tortor pulvinar, faucibus justo vitae, "
+"interdum nunc. Vestibulum imperdiet nisl vel condimentum faucibus. Vivamus "
+"rutrum ipsum vel luctus."
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Slide Description 3"
+msgstr ""
+
+#: inc/customizer.php:289
+msgid "Slide link 3"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Slide Image 4"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Slide title 4"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Slide description 4"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Slide link 4"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Slide image 5"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Slide title 5"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Slide description 5"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Slide link 5"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:393
+#, php-format
+msgid "Add social icons link here. <br>More icon available in %s."
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:423
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Footer Area"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Add footer copyright text"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "To remove credit &amp; copyright text upgrade to PRO version"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "About kraft"
+msgstr ""
+
+#: inc/customizer.php:459
+msgid "Add about title here"
+msgstr ""
+
+#: inc/customizer.php:470
+msgid "Add about description for footer"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid ""
+"<li><a href=\"#\">Home</a></li><li><a href=\"#\">About Us</a></li> <li><a "
+"href=\"#\">Portfolio</a></li><li><a href=\"#\">Contact Us</a></li>"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer.php:490
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:491
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Add contact address here"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Add you email here"
+msgstr ""
+
+#: inc/customizer.php:532
+msgid "Layout Settings (PRO Version)"
+msgstr ""
+
+#: inc/customizer.php:534
+#, php-format
+msgid "Layout Settings available in<br /> %s."
+msgstr ""
+
+#: inc/customizer.php:555
+msgid "Fonts Settings (PRO Version)"
+msgstr ""
+
+#: inc/customizer.php:557
+#, php-format
+msgid "Font Settings available in %s."
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "Documentation &amp; Support"
+msgstr ""
+
+#: inc/customizer.php:581
+#, php-format
+msgid "For documentation and support check this link %s."
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "kraft Documentation"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:184
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:17
+msgid "Sorry, nothing found result for "
+msgstr ""
+
+#: no-results.php:18
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr ""
